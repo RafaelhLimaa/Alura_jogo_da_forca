@@ -1,5 +1,5 @@
-#include <fstream>
 #include <iostream>
+#include <fstream>
 #include "le_arquivo.hpp"
 
 std :: vector<std :: string> le_arquivo(){

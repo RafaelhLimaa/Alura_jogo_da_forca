@@ -1,5 +1,5 @@
-#include <string>
 #include <vector>
+#include <string>
 #include "le_arquivo.hpp"
 
 extern std :: string palavra_secreta;

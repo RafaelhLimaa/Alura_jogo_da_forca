@@ -14,7 +14,7 @@ void chuta(){
     chutou[chute] = true;
 
     if(letra_existe(chute)){
-        std :: cout << "Você acertou!Seu chute está na palavra." << std :: endl;
+        std :: cout << "Você acertou! Seu chute está na palavra." << std :: endl;
     }
     else{
         std :: cout << "Você errou! Seu chute não está na palavra." << std :: endl;
@@ -22,4 +22,3 @@ void chuta(){
     }
     std :: cout << std :: endl;
 }
-
